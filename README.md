@@ -1,4 +1,5 @@
 # IPL Prediction using Ridge Regression
+![Python 3.6](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 ## Demo
 Link: [https://iplprediction-ridgeregression.herokuapp.com/](https://iplprediction-ridgeregression.herokuapp.com/)
